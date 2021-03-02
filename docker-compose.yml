@@ -1,0 +1,11 @@
+
+version: '3.4'
+services:
+  golang:
+    build:
+      context: ./go
+      dockerfile: Dockerfile
+    container_name: golang
+    command: ["go","run","main.go"]
+    ports:
+      - "8000:8080"
