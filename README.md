@@ -1,2 +1,2 @@
-# bitkub_challange
+# golang docker-compose
 
