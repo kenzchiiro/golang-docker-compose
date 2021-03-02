@@ -1,4 +1,6 @@
-# golang docker-compose
+#golang + docker-compose Template
+
+## Getting started
 
 Using Compose is basically a three-step process:
 - Define your app’s environment with a Dockerfile so it can be reproduced anywhere.
