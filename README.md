@@ -1,4 +1,4 @@
-#golang + docker-compose Template
+# golang + docker-compose Template
 
 ## Getting started
 
